@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Aula</string>
+  <string name="logo">APP</string>
+  <string name="title_activity_main2">Main2Activity</string>
+
+  <string name="menu_sair">Sair</string>
+  <string name="menu_sobre">Sobre</string>
+  <string name="menu_compartilhar">Compartilhar</string>
+  <string name="abrir_site">Site</string>
+  <string name="usuario">Usuário</string>
+  <string name="senha">Senha</string>
+  <string name="salvar">Salvar</string>
+</resources>
